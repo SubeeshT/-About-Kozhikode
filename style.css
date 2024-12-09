@@ -1,0 +1,27 @@
+#headerBg{  /*Header section*/
+    background: url(img/headerBg.png);
+    display: block;
+}
+
+.lnhgt{
+    line-height: 30px;
+}
+.bxShadow{
+    box-shadow: 8px 9px 9px #e8e7e7;
+}
+.img-responsive{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    
+}
+.headNavbar{
+    font-weight: bold;
+  font-size: smaller;
+}
+.fs{
+    font-size: 12px;
+}
+.navHoverEft:hover{
+    color: red;
+}
