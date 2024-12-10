@@ -11,7 +11,6 @@
 }
 .img-responsive{
     display: block;
-    max-width: 100%;
     height: auto;
     
 }
@@ -25,7 +24,7 @@
 
 
 
-/* Second body section css*/
+/* first body section css*/
 
 
 #bodySctn1{
@@ -56,3 +55,46 @@
     line-height: 24px;
     margin: 0 0 31px;
  }
+
+
+ /* second body section css*/
+
+ .imgwdt{
+    width: 30px;
+ }
+ .logoImgdiv{
+    position: relative;
+    
+ }
+ .row3{
+    background-color: #f7f7f7;
+    position: relative;
+ }
+ .hoverRed:hover{
+    color: red;
+ }
+ .cntr{
+    position: absolute;
+    top: 14px;
+ }
+ .arrowViewDiv{
+   position: relative;
+   
+ }
+ .VieMOve{
+    position: absolute;
+    top: 23px;
+    display: block;
+ }
+ .arrowMove{
+    position: absolute;
+    top: 24px;
+    display: block;
+    right: 100px;
+ }
+
+
+
+
+
+ 
