@@ -105,4 +105,28 @@
    position: relative;
 }
 
- 
+
+/*fouth body section*/
+
+.kathaBg{
+   background: url(img/kathakaliBg.jpg);
+   background-size: cover;
+}
+.line-height{
+   line-height: 0%;
+}
+.hoverMap:hover{
+   background-color: #535c01;
+}
+
+
+ /*firth body section*/
+
+ .fifthBg{
+    background: url(img/footerbg.jpg);
+    background-size: cover;
+ }
+ .ulListStyle{
+   list-style-type:square;
+   cursor: pointer;
+ }
