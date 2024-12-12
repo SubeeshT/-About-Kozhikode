@@ -1,5 +1,5 @@
 #headerBg{  /*Header section*/
-    background: url(img/headerBg.png);
+    background: url(img/headerBg.avif);
     display: block;
 }
 
@@ -109,7 +109,7 @@
 /*fouth body section*/
 
 .kathaBg{
-   background: url(img/kathakaliBg.jpg);
+   background: url(img/kathakaliBg.avif);
    background-size: cover;
 }
 .line-height{
@@ -124,7 +124,7 @@
  /*firth body section*/
 
  .fifthBg{
-    background: url(img/footerbg.jpg);
+    background: url(img/footerbg.avif);
     background-size: cover;
  }
  .ulListStyle{
